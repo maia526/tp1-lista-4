@@ -37,6 +37,12 @@ int main()
     }
     
     //multiplicar valores na diagonal de 0, 1 e 2, guardar num vetor x
+    int x[3], a = 0, b = 0;
+    for (int i = 0; i < 3; i++)
+    {
+        
+    }
+    
     
     //multiplicar valores na diagonal no outro lado de 3, 5, e 5, guardar num outro vetor y
     
